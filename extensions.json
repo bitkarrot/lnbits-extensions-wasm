@@ -249,15 +249,15 @@
         {
             "id": "giftcardswasm",
             "repo": "https://github.com/bitkarrot/giftcardswasm",
-            "version": "0.1.1",
-            "archive": "https://github.com/bitkarrot/giftcardswasm/archive/refs/tags/v0.1.1.zip",
-            "hash": "2aec523cb2e7dd53d8b44b9873337be30be56bdb336792109cbca6244c4d37e9",
+            "version": "0.1.2",
+            "archive": "https://github.com/bitkarrot/giftcardswasm/archive/refs/tags/v0.1.2.zip",
+            "hash": "97a52289df253b2512d9e39e9e7ae6c1d0d16f6e86b927e486ef9f71384adf6e",
             "min_lnbits_version": "1.6.0rc3",
             "name": "Gift Cards (WASM)",
             "short_description": "Create and redeem Lightning gift cards with LNURL-withdraw (WASM port)",
-            "icon": "https://raw.githubusercontent.com/bitkarrot/giftcardswasm/v0.1.1/static/assets/icon.png",
-            "details_link": "https://raw.githubusercontent.com/bitkarrot/giftcardswasm/v0.1.1/config.json",
-            "html_url": "https://github.com/bitkarrot/giftcardswasm/releases/tag/v0.1.1",
+            "icon": "https://raw.githubusercontent.com/bitkarrot/giftcardswasm/v0.1.2/static/assets/icon.png",
+            "details_link": "https://raw.githubusercontent.com/bitkarrot/giftcardswasm/v0.1.2/config.json",
+            "html_url": "https://github.com/bitkarrot/giftcardswasm/releases/tag/v0.1.2",
             "extension_type": "wasm"
         }
     ]
