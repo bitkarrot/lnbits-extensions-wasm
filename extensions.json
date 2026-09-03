@@ -251,7 +251,7 @@
             "repo": "https://github.com/bitkarrot/giftcardswasm",
             "version": "0.1.4",
             "archive": "https://github.com/bitkarrot/giftcardswasm/archive/refs/tags/v0.1.4.zip",
-            "hash": "83687e7e5eed70209163cd239d3ba4bc73c33bd98e1837a9647d0d8827cc393f",
+            "hash": "b6a11a6432ecd64d7993c093b915356066792973f1d07cd7dc8466f5630cb615",
             "min_lnbits_version": "1.6.0rc3",
             "name": "Gift Cards (WASM)",
             "short_description": "Create and redeem Lightning gift cards with LNURL-withdraw (WASM port)",
